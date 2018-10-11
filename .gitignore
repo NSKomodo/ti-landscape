@@ -1,3 +1,5 @@
 # Build folder and log file
+bin/
 build/
 build.log
+.DS_Store
